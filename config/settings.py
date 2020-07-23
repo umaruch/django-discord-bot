@@ -125,5 +125,5 @@ USE_TZ = True
 STATIC_URL = '/static/'
 
 # Bot settings
-DISCORD_BOT_TOKEN = 'NzA3NDk3Nzg4NzM2NTM2NTg4.XxgP1g.n-iQS2Mg2FWkFyv6RsJQ9ZYaqrQ'
+DISCORD_BOT_TOKEN = ''
 COMMAND_PREFIX = '>>>'
