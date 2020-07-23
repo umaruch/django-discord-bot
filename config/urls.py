@@ -19,6 +19,5 @@ from django.urls import path
 from bot import views
 
 urlpatterns = [
-    path('admin/', admin.site.urls),
-    path('', views.index)
+    path('', admin.site.urls),
 ]
